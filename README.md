@@ -1,3 +1,11 @@
+##DT Model description
+
+
+##HMM model description
+
+
+##Overall framework
+
 ## License & Permissions
 Copyright (c) 2026 [Ambarish Kumar]. All rights reserved. 
 
