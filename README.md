@@ -6,6 +6,13 @@
 
 ##Overall framework
 
+##Preliminary result 
+Decision rule:
+TM:
+EP:
+Synthetic peptides: 
+PC analysis:
+
 ## License & Permissions
 Copyright (c) 2026 [Ambarish Kumar]. All rights reserved. 
 
