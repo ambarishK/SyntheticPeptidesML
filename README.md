@@ -35,7 +35,13 @@ The distance value is further used to access the significance level of amino aci
 ## Overall framework
 
 ## Preliminary result 
-![DT](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1.png)
+#### DT for HLA A1
+![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1.png)
+
+#### DT for HLA A
+![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA.png)
+
+
 Decision rule:
 TM:
 EP:
