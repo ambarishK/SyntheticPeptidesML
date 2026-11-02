@@ -1,4 +1,11 @@
 ##DT Model description
+Derived position specific occurrence of amino acids serves the positional feature value to train the ML models - DT and RF.
+HLA type A antigen epitope dataset is used as input.
+Negative dataset is derived from fragments of protein sequences which are not antigens.
+Performance summary - 
+DT model - 
+
+RF model - 
 
 ##HMM model description
 
