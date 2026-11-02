@@ -7,11 +7,17 @@ Negative dataset is derived from fragments of protein sequences which are not an
 ### Performance summary - 
 
 #### DT model - 
-
+##### Performance matrix for HLA Type A1
 ![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1Performance.png)
 
-#### RF model - 
+##### Performance matrix for HLA Type A
+![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeAPerformance.png)
 
+#### RF model - 
+##### Performance matrix for HLA Type A1
+![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeA1Performance.png)
+
+##### Performance matrix for HLA Type A
 ![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeA1Performance.png)
 
 ## HMM model description
