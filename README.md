@@ -10,7 +10,8 @@ DT model -
 ![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1Performance.png)
 
 RF model - 
-![Alternative Text]([https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1Performance.png](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeA1Performance.png))
+![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeA1Performance.png)
+
 ## HMM model description
 
 
