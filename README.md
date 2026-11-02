@@ -3,13 +3,14 @@ Derived position specific occurrence of amino acids serves the positional featur
 HLA type A antigen epitope dataset is used as input.
 Negative dataset is derived from fragments of protein sequences which are not antigens.
 
-Performance summary - 
+### Performance summary - 
 
-DT model - 
+#### DT model - 
 
 ![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1Performance.png)
 
-RF model - 
+#### RF model - 
+
 ![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeA1Performance.png)
 
 ## HMM model description
