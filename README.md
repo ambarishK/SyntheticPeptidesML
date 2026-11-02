@@ -7,6 +7,8 @@ Performance summary -
 
 DT model - 
 
+![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1Performance.png)
+
 RF model - 
 
 ## HMM model description
