@@ -19,6 +19,7 @@ Negative dataset is derived from fragments of protein sequences which are not an
 ## Overall framework
 
 ## Preliminary result 
+![DT](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1.png)
 Decision rule:
 TM:
 EP:
