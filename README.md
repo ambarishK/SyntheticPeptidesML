@@ -20,6 +20,14 @@ Negative dataset is derived from fragments of protein sequences which are not an
 ![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1Performance.png)
 
 ##### Performance matrix for HLA Type A
+
+
+| DT performance matrix for HLA Type A| RF performance matrix for HLA Type A |
+| :---: | :---: |
+| ![Image 1](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeAPerformance.png) | ![Image 2](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeAPerformance.png) |
+
+
+
 ![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeAPerformance.png)
 
 #### RF model - 
