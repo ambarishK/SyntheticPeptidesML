@@ -6,36 +6,16 @@ Negative dataset is derived from fragments of protein sequences which are not an
 
 ### Performance summary - 
 
-#### DT model - 
-##### Performance matrix for HLA Type A1
-
 | DT performance matrix for HLA Type A1| RF performance matrix for HLA Type A1 |
 | :---: | :---: |
 | ![Image 1](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1Performance.png) | ![Image 2](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeA1Performance.png) |
 
 
 
-
-
-![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1Performance.png)
-
-##### Performance matrix for HLA Type A
-
-
 | DT performance matrix for HLA Type A| RF performance matrix for HLA Type A |
 | :---: | :---: |
 | ![Image 1](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeAPerformance.png) | ![Image 2](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeAPerformance.png) |
 
-
-
-![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeAPerformance.png)
-
-#### RF model - 
-##### Performance matrix for HLA Type A1
-![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeA1Performance.png)
-
-##### Performance matrix for HLA Type A
-![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeA1Performance.png)
 
 ## HMM model description
 Transition of amino acids is recorded as transition matrix. The order of transition is decided as per the user. Current study uses 1st order of transition among the amino acids in the antigen epitope library.
