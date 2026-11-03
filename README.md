@@ -8,6 +8,15 @@ Negative dataset is derived from fragments of protein sequences which are not an
 
 #### DT model - 
 ##### Performance matrix for HLA Type A1
+
+| DT performance matrix for HLA Type A1| RF performance matrix for HLA Type A1 |
+| :---: | :---: |
+| ![Image 1](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1.png) | ![Image 2](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/RFPSSMHLATypeA.png) |
+
+
+
+
+
 ![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1Performance.png)
 
 ##### Performance matrix for HLA Type A
@@ -35,12 +44,6 @@ The distance value is further used to access the significance level of amino aci
 ## Overall framework
 
 ## Preliminary result 
-#### DT for HLA A1
-![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA1.png)
-
-#### DT for HLA A
-![Alternative Text](https://github.com/ambarishK/SyntheticPeptidesML/blob/main/DTPSSMHLATypeA.png)
-
 
 
 | DT for HLA A1 | DT for HLA A |
